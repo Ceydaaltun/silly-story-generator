@@ -1,6 +1,8 @@
 body {
     font-family: helvetica, sans-serif;
-    width: 350px;
+    width: 50%;
+    margin: 5em 23em;
+    background-color: antiquewhite;
   }
 
   label {
@@ -21,4 +23,11 @@ body {
     color: #5e2612;
     padding: 10px;
     visibility: hidden;
+  }
+
+  h1 {
+    font-family: Lobster, cursive;
+    text-align: center;
+    font-size: 3em;
+    margin: 1em;
   }
