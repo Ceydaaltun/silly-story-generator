@@ -1,1 +1,1 @@
-# silly-story-generator to reach the website https://vercel.com/ceydaaltun/silly-story-generator 
+# silly-story-generator to reach the website https://silly-story-generator-sand.vercel.app/  
